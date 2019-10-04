@@ -1,0 +1,54 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "age": 36,
+      "organization": {
+        "name": "Synopsys",
+        "country": "India"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Keith Wilson",
+      "email": "kieth@gmail.com",
+      "age": 50,
+      "organization": {
+        "name": "Croma",
+        "country": "Germany"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Jen Thompson",
+      "email": "jen@gmail.com",
+      "age": 22,
+      "organization": {
+        "name": "Infosys",
+        "country": "China"
+      }
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@gmail.com",
+      "age": 34,
+      "id": "rytP7hhUW",
+      "organization": {
+        "name": "Adobe",
+        "country": "Uta"
+      }
+    },
+    {
+      "name": "Dalai",
+      "email": "abc@gmail.com",
+      "age": 25,
+      "id": "Wf5jH3C",
+      "organization": {
+        "name": "Bosh",
+        "country": "Otawa"
+      }
+    }
+  ]
+}
